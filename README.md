@@ -1,6 +1,6 @@
-#RFItea
-###Dan Ternes
-###www.maniacallabs.com
+##RFItea
+Dan Ternes
+www.maniacallabs.com
 
 A timer for tea using RFID tags. In programming mode, the tags can be programmed
 with the tea name and steep time. Scanning the tag in normal mode will display 
