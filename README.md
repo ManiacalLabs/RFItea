@@ -20,4 +20,4 @@ https://www.adafruit.com/products/931
 Arduino RFID Library for MFRC522 by miguelbalboa:
 https://github.com/miguelbalboa/rfid
 
-**See RFItea.ino for more information.**
+**See [RFItea.ino](https://github.com/ManiacalLabs/RFItea/blob/master/RFItea.ino) for more information.**
